@@ -1,0 +1,33 @@
+.container{
+	margin-top: 10%;
+	width: 400px;
+	border: 1.5px solid black;
+	padding: 20px 15px 25px 15px;
+	border-radius: .50rem;
+}
+
+body{
+	background-image: url(https://images.unsplash.com/photo-1474631245212-32dc3c8310c6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1981&q=80);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center
+    
+}
+
+h2{
+	color: white;
+	padding-bottom: 20px;
+	text-shadow: 2px 2px 2px black;
+}
+
+
+label{
+	font-size: 21px;
+	font-weight: 500;
+	color: black;
+}
+button{
+	width: 100px;
+	height: 40x;
+	margin-top: 20px;
+}
